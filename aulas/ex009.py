@@ -1,0 +1,22 @@
+n1=int(input('Digite um número:'))
+um=n1*1
+ds=n1*2
+ts=n1*3
+qt=n1*4
+cn=n1*5
+ss=n1*6
+st=n1*7
+ot=n1*8
+nv=n1*9
+dz=n1*10
+print('A tabuada de {} é:'.format(n1))
+print('{}X1={}'.format(n1,um))
+print('{}X2={}'.format(n1,ds))
+print('{}X3={}'.format(n1,ts))
+print('{}X4={}'.format(n1,qt))
+print('{}X5={}'.format(n1,cn))
+print('{}X6={}'.format(n1,ss))
+print('{}X7={}'.format(n1,st))
+print('{}X8={}'.format(n1,ot))
+print('{}X9={}'.format(n1,nv))
+print('{}X10={}'.format(n1,dz))
